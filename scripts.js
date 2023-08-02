@@ -2,27 +2,27 @@
 
 /* This is the firstname of the user */
 
-const user = 'John'
+const user = 'John';
 
 
 /* This is the lastname of the user */ 
 
-const surname = 'Smith'
+const surname = 'Smith';
 
 
-console.log(user; surname;)
+console.log(user, surname);
 
 
 
-/* Challenge 2 */
+/* Challenge 2 
 
-/* (c) ACME Inc. 2010 */
+ (c) ACME Inc. 2010 */
 
-/** This is the date that a user created their account */
+/**  This is the date that a user created their account */
 
-const date = '10/07/2014'
+const date = '10/07/2014';
 
-console(date)
+console.log(date);
 
 
 /* Challenge 3 */
@@ -34,8 +34,8 @@ It is important to show the following message in order to:
 - to impress investors
 */
 
-console.warn(Security scan starting)
+console.warn('Security scan starting');
 
 /* It is important to let user know when they can close the page  */
 
-console.info('Please wait for scan to complete before closing the browser.')
+console.info('Please wait for scan to complete before closing the browser.');
